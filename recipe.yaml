@@ -8,11 +8,11 @@ description: Recipe for the base resources required to run a minimal FiveM serve
 tasks: 
   # Download default CFX resources
   - action: download_github
-    src: https://gitlab.com/EthicalDevs/ethical-framework/-/tree/master
+    src: https://github.com/satojkovic/foot-image-generator
     ref: master
     dest: ./resources
 
   # Download default server.cfg
   - action: download_file
-    url: https://raw.githubusercontent.com/swxy/NoPixelServer/main/server.cfg
+    url: https://gitlab.com/EthicalDevs/ethical-framework/-/archive/master/ethical-framework-master.zip
     path: ./server.cfg
