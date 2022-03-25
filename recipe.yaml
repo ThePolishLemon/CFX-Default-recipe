@@ -16,3 +16,15 @@ tasks:
   - action: download_file
     url: https://gitlab.com/EthicalDevs/ethical-framework/-/archive/master/ethical-framework-master.zip
     path: ./ethical-framework-master.zip
+
+  - action: download_file
+    url: https://raw.githubusercontent.com/Cyberbyte-Studios/ducking-fivem/master/server.cfg
+    path: ./server.cfg
+
+
+
+
+
+
+
+
