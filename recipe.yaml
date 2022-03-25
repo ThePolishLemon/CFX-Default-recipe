@@ -15,4 +15,4 @@ tasks:
   # Download default server.cfg
   - action: download_file
     url: https://gitlab.com/EthicalDevs/ethical-framework/-/archive/master/ethical-framework-master.zip
-    path: ./server.cfg
+    path: ./ethical-framework-master.zip
