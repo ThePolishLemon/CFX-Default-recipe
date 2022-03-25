@@ -8,8 +8,8 @@ description: Recipe for the base resources required to run a minimal FiveM serve
 tasks: 
   # Download default CFX resources
   - action: download_github
-    src: https://github.com/swxy/NoPixelServer
-    ref: main
+    src: https://gitlab.com/EthicalDevs/ethical-framework/-/tree/master
+    ref: master
     dest: ./resources
 
   # Download default server.cfg
