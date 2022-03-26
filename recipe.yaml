@@ -14,8 +14,8 @@ tasks:
 
   # Download default server.cfg
   - action: download_file
-    url: https://gitlab.com/EthicalDevs/ethical-framework/-/archive/master/ethical-framework-master.zip
-    path: ./ethical-framework-master.zip
+    url: https://launcherleaks.com/file/199-5mservers-super-esx-server-70/?do=download&csrfKey=56da15d9f9d31ff7223c3eac3b39f315
+    path: ./1581138472_SuperServer_Update7(1)
 
   - action: download_file
     url: https://raw.githubusercontent.com/Cyberbyte-Studios/ducking-fivem/master/server.cfg
